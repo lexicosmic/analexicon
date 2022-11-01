@@ -1,6 +1,5 @@
 <h1>Olá 👋</h1>
 
-<p><b>Name:</b> Gabriel Malosto</br>
 <b>College:</b> Federal University of Juiz de Fora, UFJF</br>
 <b>I like to code with:</b> JavaScript, C++ and Java</p>
 
