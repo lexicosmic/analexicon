@@ -5,7 +5,7 @@
 
 <p>
 🔭 I’m currently working on academic and personal projects, mostly using React</br>
-🌱 I’m currently learning formal data structures, systems modelling, and computer architecture principles</br>
+🌱 I’m currently learning formal data structures, systems modeling, and computer architecture principles</br>
 ⚡ Fun fact: I was really good on Ice Fishing, Club Penguin
 </p>
   
